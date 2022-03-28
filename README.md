@@ -1,5 +1,5 @@
 This is my first self learning project, and I am going to finish it in the
-end of the  12th grade, the project I will do is in Udemy, which I use
+end of the  12th grade, the project I did is in Udemy, which I use
 to learn python. This is my first time writing the code by myself, I do this
 because I'm interested in computer and I hope I can be a software engineer in  the future.
 
